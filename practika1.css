@@ -1,0 +1,102 @@
+.osnova {
+  text-align: center;
+  Width:611px;
+Height :700px;
+Top :-601px;
+Left: -65px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.photo {
+  text-align: center
+}
+.ss{
+  color: black;
+}
+.text {
+
+  font-family: roboto,sans-serif;
+  text-align: left;
+}
+p {
+  font-family: roboto, sans-serif;
+  margin-right: auto;
+  margin-left: auto;
+}
+.bt {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bt0 {
+  background-color: #CCEAED;width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0; font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt1{
+  background-color:#C1E6EA ; width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt2 {
+  background-color: #A8DDE1 ; width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt3 {
+  background-color: #99D5DB ; width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt4 {
+  background-color: #80CBD1; width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt5 {
+  background-color: #66C1C8;width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt6 {
+  background-color: #4DB6BF ;width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt7 {
+  background-color:#33ACB6 ;width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt8 {
+  background-color:#0097A4 ;width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt9 {
+  background-color: #0097A4;width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+.bt10{
+  background-color: #058F9B;width: 46px;height: 50px;font-family: Montserrat,sans-serif;color: white; border-radius: 10px;
+border: 0;font-size: 20px;letter-spacing: 0.005em;font-weight: 700;
+}
+span {
+  margin-left: 80px;
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 125%;
+}
+.rek {
+
+font-style: normal;
+font-weight: 500;
+font-size: 19px;
+line-height: 125%;
+  margin-top:5px ;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
+}
+.textt {
+  margin-bottom: 60px;
+}
+.textt1 {
+  margin-bottom: 45px;
+}
+.text2{
+  margin-top:109px ;
+  text-align: left;
+}
